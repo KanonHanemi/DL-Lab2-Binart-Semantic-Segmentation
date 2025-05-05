@@ -30,7 +30,7 @@ Thumbs.db
 *.txt
 *.zip
 
-# 如果你用的是 diffusers / checkpoints
+# dataset或之類的資料夾
 checkpoints/
 logs/
 results/
